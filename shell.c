@@ -2,7 +2,6 @@
  *Author: Steven Jorgensen
  *Date: 2/18/16
  *
- *Project 04 CSE 410
  *
  *Program inplements a shell for users to interact with. Included commands are
  *
